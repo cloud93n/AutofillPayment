@@ -1,0 +1,13 @@
+{
+  "name": "Autofill Payment",
+  "description": "Autofill Payment",
+  "version": "1.0",
+  "author": "Christiawan",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "card.png",
+    "default_title": "Autofill Payment"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
